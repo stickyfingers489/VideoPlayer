@@ -1,0 +1,17 @@
+//
+//  VideoPlayerApp.swift
+//  VideoPlayer
+//
+//  Created by stickerfinger489 on 09/05/2022.
+//
+
+import SwiftUI
+
+@main
+struct VideoPlayerApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
